@@ -1,7 +1,6 @@
 
 # 🏆 Chess App
 
-![Chess Banner](https://user-images.githubusercontent.com/placeholder-banner.png)  
 *A simple chess application built using C# and WinForms.*
 
 ---
