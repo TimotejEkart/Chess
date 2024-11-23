@@ -1,0 +1,20 @@
+﻿Chess
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\crays\OneDrive\Desktop\VS projects\Chess\Chess\obj\Release\net8.0-windows\
+Chess
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\crays\OneDrive\Desktop\VS projects\Chess\Chess\App.xaml
+32062451109
+
+10-1696754861
+198-1509178875
+MainWindow.xaml;MoveHistoryWindow.xaml;PromotionWindow.xaml;
+
+False
+

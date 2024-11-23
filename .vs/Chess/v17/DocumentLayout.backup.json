@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\promotionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\promotionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\movehistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\movehistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\movehistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\movehistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|c:\\users\\crays\\onedrive\\desktop\\vs projects\\chess\\chess\\promotionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1878BD43-49C9-44CC-83FB-2CE54988C563}|Chess\\Chess.csproj|solutionrelative:chess\\promotionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chess\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MainWindow.xaml",
+              "RelativeToolTip": "Chess\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T20:02:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MoveHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "Chess\\MoveHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MoveHistoryWindow.xaml",
+              "RelativeToolTip": "Chess\\MoveHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T20:16:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\Board.cs",
+              "RelativeDocumentMoniker": "Chess\\Board.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\Board.cs",
+              "RelativeToolTip": "Chess\\Board.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAqwEEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:09:14.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "Chess\\ChessPiece.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\ChessPiece.cs",
+              "RelativeToolTip": "Chess\\ChessPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:08:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MoveHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chess\\MoveHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MoveHistoryWindow.xaml.cs",
+              "RelativeToolTip": "Chess\\MoveHistoryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:16:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Chess\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\AssemblyInfo.cs",
+              "RelativeToolTip": "Chess\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:01:51.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chess\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chess\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD8CAAAAAAAAAAAkwGwCAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:10:26.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromotionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\PromotionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chess\\PromotionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\PromotionWindow.xaml.cs",
+              "RelativeToolTip": "Chess\\PromotionWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:42:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PromotionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\PromotionWindow.xaml",
+              "RelativeDocumentMoniker": "Chess\\PromotionWindow.xaml",
+              "ToolTip": "C:\\Users\\crays\\OneDrive\\Desktop\\VS projects\\Chess\\Chess\\PromotionWindow.xaml",
+              "RelativeToolTip": "Chess\\PromotionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T19:42:22.29Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
